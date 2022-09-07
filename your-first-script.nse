@@ -1,3 +1,5 @@
+--This script fulfills the project reqs for "First Lua Script" in Codecademy
+
 -- HEAD
 
 local nmap = require "nmap"
